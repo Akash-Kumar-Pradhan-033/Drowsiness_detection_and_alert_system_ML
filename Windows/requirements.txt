@@ -1,0 +1,7 @@
+onnxruntime==1.16.0
+opencv-python==4.8.1.78
+numpy==1.24.4
+requests==2.31.0
+pywin32==306
+pushbullet.py==0.12.0
+python-telegram-bot==20.4
