@@ -25,9 +25,9 @@ def get_base_path():
 # Initialize paths
 base_path = get_base_path()
 MODEL_PATH = os.path.join(base_path, "drowsiness_model.onnx")
-PUSHBULLET_API_KEY = "o.ISl7vFswIo0No5HaWk4OJN0WXYtpXNSs"
-TELEGRAM_BOT_TOKEN = "7906985562:AAHxuXOT6lS2i_ipuuJ9AuLIupe0mmvTfQw"
-TELEGRAM_CHAT_ID = "5036175022"
+PUSHBULLET_API_KEY = "your token"
+TELEGRAM_BOT_TOKEN = "your token"
+TELEGRAM_CHAT_ID = "your ID"
 
 # Global variables
 drowsy_start_time = None
