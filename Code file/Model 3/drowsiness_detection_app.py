@@ -13,9 +13,9 @@ from pathlib import Path
 
 # Constants from original code
 MODEL_PATH = r"C:\Users\ommak\Drowsiness detection and alert system\Model 3\drowsiness_model.onnx"
-PUSHBULLET_API_KEY = "o.ISl7vFswIo0No5HaWk4OJN0WXYtpXNSs"
-TELEGRAM_BOT_TOKEN = "7906985562:AAHxuXOT6lS2i_ipuuJ9AuLIupe0mmvTfQw"
-TELEGRAM_CHAT_ID = "5036175022"
+PUSHBULLET_API_KEY = "your token"
+TELEGRAM_BOT_TOKEN = "your token"
+TELEGRAM_CHAT_ID = "Your ID"
 ALERT_THRESHOLD = 1.3
 CALL_THRESHOLD = 5.0
 BEEP_FREQUENCY = 1000
