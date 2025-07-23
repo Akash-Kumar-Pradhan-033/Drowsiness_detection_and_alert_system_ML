@@ -56,9 +56,9 @@ class MainActivity : AppCompatActivity() {
         private const val BEEP_FREQUENCY = 1000
         private const val BEEP_DURATION = 500
         private const val MODEL_INPUT_SIZE = 64
-        private const val PUSHBULLET_API_KEY = "o.ISl7vFswIo0No5HaWk4OJN0WXYtpXNSs"
-        private const val TELEGRAM_BOT_TOKEN = "7906985562:AAHxuXOT6lS2i_ipuuJ9AuLIupe0mmvTfQw"
-        private const val TELEGRAM_CHAT_ID = "5036175022"
+        private const val PUSHBULLET_API_KEY = "Your token"
+        private const val TELEGRAM_BOT_TOKEN = "Your token"
+        private const val TELEGRAM_CHAT_ID = "Your ID"
     }
 
     private var drowsyStartTime: Long = 0
